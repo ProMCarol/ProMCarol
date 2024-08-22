@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Meu nome é Maria Carolina
+Meu nome é Maria Carolina 🙉
 
 - Sou professora de Tecnologia e Robótica e utilizo o Alura Start.
 - Estou desenvolvendo na linguagem JavaScript junto com meus alunos.
